@@ -1,0 +1,15 @@
+# Js node_modules
+node_modules
+
+# confidential keys
+.env             
+config.json
+
+# ignore these files
+config.json   
+scraps.js
+
+
+
+
+
