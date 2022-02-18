@@ -8,6 +8,10 @@ config.json
 # ignore these files
 config.json   
 scraps.js
+cleanapp.js
+test.js
+test1.js
+
 
 
 
